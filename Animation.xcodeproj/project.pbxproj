@@ -14,6 +14,16 @@
 		5972B3301D4AF047002BAB3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5972B32E1D4AF047002BAB3A /* LaunchScreen.storyboard */; };
 		5972B33B1D4AF047002BAB3A /* AnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5972B33A1D4AF047002BAB3A /* AnimationTests.swift */; };
 		5972B3461D4AF047002BAB3A /* AnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5972B3451D4AF047002BAB3A /* AnimationUITests.swift */; };
+		5972B35D1D4AF3CB002BAB3A /* IMG_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3541D4AF3CB002BAB3A /* IMG_1.jpg */; };
+		5972B35E1D4AF3CB002BAB3A /* IMG_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3551D4AF3CB002BAB3A /* IMG_2.jpg */; };
+		5972B35F1D4AF3CB002BAB3A /* IMG_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3561D4AF3CB002BAB3A /* IMG_3.jpg */; };
+		5972B3601D4AF3CB002BAB3A /* IMG_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3571D4AF3CB002BAB3A /* IMG_4.jpg */; };
+		5972B3611D4AF3CB002BAB3A /* IMG_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3581D4AF3CB002BAB3A /* IMG_5.jpg */; };
+		5972B3621D4AF3CB002BAB3A /* IMG_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3591D4AF3CB002BAB3A /* IMG_6.jpg */; };
+		5972B3631D4AF3CB002BAB3A /* IMG_7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B35A1D4AF3CB002BAB3A /* IMG_7.jpg */; };
+		5972B3641D4AF3CB002BAB3A /* IMG_8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B35B1D4AF3CB002BAB3A /* IMG_8.jpg */; };
+		5972B3651D4AF3CB002BAB3A /* IMG_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B35C1D4AF3CB002BAB3A /* IMG_9.jpg */; };
+		5972B3671D4B113E002BAB3A /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5972B3661D4B113E002BAB3A /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		5972B3411D4AF047002BAB3A /* AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5972B3451D4AF047002BAB3A /* AnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUITests.swift; sourceTree = "<group>"; };
 		5972B3471D4AF047002BAB3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5972B3541D4AF3CB002BAB3A /* IMG_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1.jpg; sourceTree = "<group>"; };
+		5972B3551D4AF3CB002BAB3A /* IMG_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2.jpg; sourceTree = "<group>"; };
+		5972B3561D4AF3CB002BAB3A /* IMG_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3.jpg; sourceTree = "<group>"; };
+		5972B3571D4AF3CB002BAB3A /* IMG_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_4.jpg; sourceTree = "<group>"; };
+		5972B3581D4AF3CB002BAB3A /* IMG_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_5.jpg; sourceTree = "<group>"; };
+		5972B3591D4AF3CB002BAB3A /* IMG_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_6.jpg; sourceTree = "<group>"; };
+		5972B35A1D4AF3CB002BAB3A /* IMG_7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_7.jpg; sourceTree = "<group>"; };
+		5972B35B1D4AF3CB002BAB3A /* IMG_8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_8.jpg; sourceTree = "<group>"; };
+		5972B35C1D4AF3CB002BAB3A /* IMG_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_9.jpg; sourceTree = "<group>"; };
+		5972B3661D4B113E002BAB3A /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +117,7 @@
 		5972B3241D4AF047002BAB3A /* Animation */ = {
 			isa = PBXGroup;
 			children = (
+				5972B3531D4AF3B0002BAB3A /* images */,
 				5972B3251D4AF047002BAB3A /* AppDelegate.swift */,
 				5972B3271D4AF047002BAB3A /* ViewController.swift */,
 				5972B3291D4AF047002BAB3A /* Main.storyboard */,
@@ -123,6 +144,23 @@
 				5972B3471D4AF047002BAB3A /* Info.plist */,
 			);
 			path = AnimationUITests;
+			sourceTree = "<group>";
+		};
+		5972B3531D4AF3B0002BAB3A /* images */ = {
+			isa = PBXGroup;
+			children = (
+				5972B3541D4AF3CB002BAB3A /* IMG_1.jpg */,
+				5972B3551D4AF3CB002BAB3A /* IMG_2.jpg */,
+				5972B3561D4AF3CB002BAB3A /* IMG_3.jpg */,
+				5972B3571D4AF3CB002BAB3A /* IMG_4.jpg */,
+				5972B3581D4AF3CB002BAB3A /* IMG_5.jpg */,
+				5972B3591D4AF3CB002BAB3A /* IMG_6.jpg */,
+				5972B35A1D4AF3CB002BAB3A /* IMG_7.jpg */,
+				5972B35B1D4AF3CB002BAB3A /* IMG_8.jpg */,
+				5972B35C1D4AF3CB002BAB3A /* IMG_9.jpg */,
+				5972B3661D4B113E002BAB3A /* background.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,8 +277,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				5972B3301D4AF047002BAB3A /* LaunchScreen.storyboard in Resources */,
+				5972B3671D4B113E002BAB3A /* background.jpg in Resources */,
+				5972B3651D4AF3CB002BAB3A /* IMG_9.jpg in Resources */,
+				5972B3611D4AF3CB002BAB3A /* IMG_5.jpg in Resources */,
+				5972B3641D4AF3CB002BAB3A /* IMG_8.jpg in Resources */,
+				5972B35F1D4AF3CB002BAB3A /* IMG_3.jpg in Resources */,
+				5972B3601D4AF3CB002BAB3A /* IMG_4.jpg in Resources */,
+				5972B3621D4AF3CB002BAB3A /* IMG_6.jpg in Resources */,
+				5972B35D1D4AF3CB002BAB3A /* IMG_1.jpg in Resources */,
 				5972B32D1D4AF047002BAB3A /* Assets.xcassets in Resources */,
 				5972B32B1D4AF047002BAB3A /* Main.storyboard in Resources */,
+				5972B35E1D4AF3CB002BAB3A /* IMG_2.jpg in Resources */,
+				5972B3631D4AF3CB002BAB3A /* IMG_7.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +463,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Animation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = np.com.pangait.Animation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -427,6 +476,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Animation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = np.com.pangait.Animation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
